@@ -1,3 +1,7 @@
 Starting up your computer and/or device is one operating system function.  
 If your device isn't on, then it does nothing.  
 You have to give the device instructions on what it needs to do and having it on is the first step.
+
+Shutting down your computer/and or device is another operating system function.
+There are different ways on shutting down your computer and/or device.
+One way is putting your computer on sleep, which puts in low battery mode and saves your work.
